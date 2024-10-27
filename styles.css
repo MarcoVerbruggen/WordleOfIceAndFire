@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'GameOfThronesFont'; /*a name to be used later*/
-    src: url('/wordleOfIceAndFire/Game\ of\ Thrones.ttf') format('truetype'); /*URL to font*/
+    src: url('/Game\ of\ Thrones.ttf') format('truetype'); /*URL to font*/
 }
 
 *,
