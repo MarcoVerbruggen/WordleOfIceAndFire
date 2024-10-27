@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'GameOfThronesFont'; /*a name to be used later*/
+    src: url('/wordleOfIceAndFire/Game\ of\ Thrones.ttf') format('truetype'); /*URL to font*/
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'GameOfThronesFont';
+    color: black;
+    font-weight: bold;
+    margin: 20px 0 40px 0;
+}
+
+body {
+    /*opacity: 0.5;
+    /*background-image: radial-gradient(#4f4f57 0.35000000000000003px, #e4e4e4 0.35000000000000003px);*/
+    background-size: 7px 7px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputDiv,
+.basicIntro {
+    background-color: rgb(200, 207, 226);
+    box-sizing: border-box;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+}
+
+.introTitle,
+.introSubTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;    
+}
+
+.introTitle {
+    font-weight: bold;
+}
