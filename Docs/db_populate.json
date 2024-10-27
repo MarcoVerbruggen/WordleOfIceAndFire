@@ -1,16 +1,17 @@
-{
-    "_id": 1,
-    "Name": "Daenerys Targaryen",
-    "House": "Targaryen",
-    "Title": "King/Queen, Khal/Khaleesi",
-    "Gender": "Female",
-    "Occupation": "Ruler",
-    "Affiliation": "Targaryen Exiles",
-    "Culture": "Westerosi, Valyrian, Dothraki",
-    "Religion": "Non-Practicing",
-    "Race": "Valyrian",
-    "Time Period": "A Song of Ice and Fire",
-    "First Appearance": "A Game of Thrones (1996)",
-    "Last Appearance": "The World of Ice and Fire (2014)",
-    "POV": "Yes"
-}
+[
+    {
+        "Name": "Daenerys Targaryen",
+        "House": "Targaryen",
+        "Title": "King/Queen, Khal/Khaleesi",
+        "Gender": "Female",
+        "Occupation": "Ruler",
+        "Affiliation": "Targaryen Exiles",
+        "Culture": "Westerosi, Valyrian, Dothraki",
+        "Religion": "Non-Practicing",
+        "Race": "Valyrian",
+        "Time Period": "A Song of Ice and Fire",
+        "First Appearance": "A Game of Thrones (1996)",
+        "Last Appearance": "The World of Ice and Fire (2014)",
+        "POV": "Yes"
+    }
+]
