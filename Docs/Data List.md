@@ -14,7 +14,7 @@
   * Larger cultural sphere (Continent), Reginal sphere (Kingdom/Regions), Specific (if needed ex:Crannogmen, Marcher)
   * Essos divided in Larger cultural spheres, Westeros united
 * **Race**
-  * Need to define clearer
+  * Need clearer definetion
 * **Religion**
   * Faith of Seven
   * Old Gods
@@ -29,10 +29,14 @@
     * Long Knight
     * Andal Invasion
     * Age of Valyria
+    * Or just compile it all to Pre-Aegon Conquest
     * Aegon's Conquest, his Reign and his Sons
-    * The long Reign
-    * Dance of the Dragons
-    * 
+    * The Long Reign
+    * Pre-Dance and Dance of the Dragons
+    * After the Dance
+    * Blackfyre Rebellions
+    * Robbert's Rebellion
+    * A Song of Ice and Fire
 * **First Appearance**
   * Can be one of the following:
     * A Game of Thrones (1996)
